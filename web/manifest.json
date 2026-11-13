@@ -1,0 +1,19 @@
+{
+  "name": "Barbearia do Zé",
+  "short_name": "Barbearia",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#F39C12",
+  "description": "Serviços e agendamentos protegidos da Barbearia do Zé.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Barbearia_Logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
